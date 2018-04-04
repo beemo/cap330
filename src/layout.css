@@ -1,0 +1,303 @@
+
+
+h1 {
+	font-family: "sans-serif";
+	font-size: 24px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+}
+
+h2 {
+	/* font-family: "Linux Libertine","Georgia","Times",serif; */
+	font-family: "sans-serif";
+
+	font-size: 19px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 20.4px;
+}
+
+h1 .imgurTagText {
+	font-family: "sans-serif";
+
+	/* font-family: "Linux Libertine","Georgia","Times",serif; */
+	font-size: 19px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 20.4px;
+  float: right;
+}
+
+
+h3 {
+	/* font-family: "Linux Libertine","Georgia","Times",serif; */
+	font-family: "sans-serif";
+
+	font-size: 19px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 15.4px;
+}
+
+h4 {
+	font-family: "sans-serif";
+
+	/* font-family: "Linux Libertine","Georgia","Times",serif; */
+	font-size: 17px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 15.4px;
+}
+
+ul {
+	font-family: "sans-serif";
+
+	/* font-family: "Linux Libertine","Georgia","Times",serif; */
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 700;
+	line-height: 20px;
+}
+
+p, li, .stats-text {
+	font-family: "sans-serif";
+
+	/* font-family: "Linux Libertine","Georgia","Times",serif; */
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 20px;
+}
+blockquote {
+	font-family: "sans-serif";
+
+	/* font-family: "Linux Libertine","Georgia","Times",serif; */
+	font-size: 21px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 30px;
+}
+pre {
+	font-family: "sans-serif";
+
+	/* font-family: "Linux Libertine","Georgia","Times",serif; */
+	font-size: 13px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 18.5714px;
+}
+
+.App-header {
+  text-align: center;
+  background-color: #222;
+	padding-top:1px;
+	width: 100%;
+  height: 29px;
+  /* padding-left: 20px; */
+  /* padding-right: 40px; */
+  padding-bottom: 25px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+	/* padding-right: 25px; */
+
+}
+
+.Main-content-container {
+  align-content: center;
+}
+
+
+.imgur-img-container:before {
+    content:'';
+  	align-content: center;
+}
+
+.imgur-img-container {
+    margin: 5px;
+    height: auto;
+}
+
+.bottom-fixed {
+  position: fixed;
+  bottom: 0;
+  height: 15%;
+  width: 100%
+}
+
+/* .wiki-content-container {
+  width: 80%;
+  padding: 8px;
+  height: auto;
+  text-align: left;
+  align-items: center;
+} */
+
+.wiki-content-container img {
+  padding-top: 20px
+}
+
+.wiki-html img {
+  max-width: auto;
+}
+
+.thumb-box {
+    margin: 5px;
+    font-weight: bold;
+    font-size: 1.5em;
+    flex: 1 0 auto;
+    height: auto;
+}
+.thumb-box:before {
+    content:'';
+    padding-top:100%;
+}
+
+/*
+.thumb-box {
+  padding: 5px;
+} */
+
+/* .thumb {
+  padding: 5px;
+  border: 1px solid black;
+} */
+
+.Main-pane {
+  margin: 10px;
+  border: 2px solid lightgrey;
+  padding: 15px;
+  align-content: center;
+}
+
+.center-cropped {
+  width: 100px;
+  height: 100px;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+.thumb-container {
+  padding-left: 0;
+  padding-right: 0;
+  margin: 0;
+  padding-top: 2px;
+}
+
+.thumb-container h4 {
+  border: 2px solid lightgrey;
+  margin-left: 175px;
+  margin-right: 175px;
+  padding-top: 25px;
+}
+
+.Main-pane {
+  margin: 10px;
+  border: 2px solid lightgrey;
+  padding: 15px;
+  align-content: center;
+}
+
+.thumb-container {
+  padding-left: 0;
+  padding-right: 0;
+  margin: 0;
+  padding-top: 2px;
+}
+
+.thumb-container h4 {
+  border: 2px solid lightgrey;
+  margin-left: 175px;
+  margin-right: 175px;
+  padding-top: 25px;
+}
+
+/* Position and sizing of burger button */
+.bm-burger-button {
+  position: fixed;
+  width: 36px;
+  height: 30px;
+  right: 31px;
+  top: 15px;
+}
+
+/* Color/shape of burger icon bars */
+.bm-burger-bars {
+	position: fixed;
+  background: white;
+	border: solid 1px lightgrey;
+	outline: solid 1px black;
+
+}
+
+/* Position and sizing of clickable cross button */
+.bm-cross-button {
+  height: 24px;
+  width: 24px;
+}
+
+/* Color/shape of close button cross */
+.bm-cross {
+  background: #bdc3c7;
+}
+
+/* General sidebar styles */
+.bm-menu  {
+  background: white;
+  padding: 2.5em 1.5em 0;
+  font-size: 1.15em;
+	font-family: "Linux Libertine","Georgia","Times",serif;
+}
+
+/* Morph shape necessary with bubble or elastic */
+.bm-morph-shape {
+  fill: #373a47;
+}
+
+/* Wrapper for item list */
+.bm-item-list {
+  color: grey;
+  padding: 0.8em;
+}
+
+/* Styling of overlay */
+.bm-overlay {
+  background: rgba(0, 0, 0, 0.3);
+}
+
+.backdrop {
+position: 'fixed';
+top: 0;
+bottom: 0;
+left: 0;
+right: 0;
+background-color: 'rgba(0,0,0,0.3)';
+padding: 50;
+}
+
+.modal {
+	background-color: '#fff';
+	border-radius: 5;
+	max-width: 500;
+	min-height: 300;
+	margin: '0 auto';
+	padding: 30
+}
+
+.loadingBox {
+	margin: '0 auto';
+	align-content: center;
+}
+/* css hover cursor burger */

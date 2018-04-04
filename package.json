@@ -1,0 +1,42 @@
+{
+  "name": "cap3",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.17.1",
+    "bluebird": "^3.5.1",
+    "debug": "^3.1.0",
+    "dotenv": "^5.0.1",
+    "lodash": "^4.17.5",
+    "moment": "^2.20.1",
+    "react": "^16.2.0",
+    "react-burger-menu": "^2.3.0",
+    "react-dom": "^16.2.0",
+    "react-redux": "^5.0.6",
+    "react-scripts": "1.1.1",
+    "react-spinners": "^0.2.6",
+    "react-split-pane": "^0.1.77",
+    "react-splitter-layout": "^3.0.0",
+    "react-swipeable": "^4.2.0",
+    "redux": "^3.7.2",
+    "redux-burger-menu": "^0.2.4",
+    "redux-logger": "^3.0.6",
+    "redux-promise-middleware": "^5.0.0",
+    "redux-thunk": "^2.2.0",
+    "run-auto": "^2.0.0",
+    "swipeable": "^1.0.5",
+    "url-exists": "^1.0.3",
+    "wikijs": "^4.5.1"
+  },
+  "scripts": {
+    "start": "PORT=80 react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "file-loader": "^1.1.11",
+    "redux-devtools-extension": "^2.13.2",
+    "url-loader": "^1.0.1"
+  }
+}
