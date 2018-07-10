@@ -1,6 +1,8 @@
 <h2>Wikimgur</h2>
 <h3><a href="http://wikimgur.com">wikimgur.com</a></h3>
 
+This repo only contains frontend files for wikimgur.com. Here is the repo containing the (completely separate) [backend](https://github.com/benskyio/wikimgur_backend).
+
 <img src="http://bensky.io/img/portfolio/carousel/wikimgur.jpg" alt="screenshot #1 of bbq-journal.com" width="80%" >
 
 <p><strong>wikimgur.com is a mashup of current Imgur images and related Wikipedia content.</p></strong>
@@ -28,5 +30,4 @@
       <li> redux-thunk </li> 
 </ul>
 
-This repo only contains frontend files for wikimgur.com. Here is the repo containing the (completely separate) [backend](https://github.com/benskyio/wikimgur_backend).
 
