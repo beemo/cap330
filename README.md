@@ -10,6 +10,7 @@
   <li> Imgur GET requests are performed every 6 minutes </li>
   <li> Images are filtered for the following conditions:</li>
     <ul>
+      <br>
       <li> No image content </li>
       <li> Multiple images </li>
       <li> No tags </li>
