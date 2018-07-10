@@ -3,7 +3,8 @@
 
 <img src="http://bensky.io/img/portfolio/carousel/wikimgur.jpg" alt="screenshot #1 of bbq-journal.com" width="80%" >
 
-<p><strong>wikimgur.com is a mashup of current Imgur images and related Wikipedia content.</p> <p>Image tags are used to dynamically retreive and display Wikipedia content.</strong></p>
+<p><strong>wikimgur.com is a mashup of current Imgur images and related Wikipedia content.</p></strong>
+<p>Image tags are used to dynamically retreive and display Wikipedia content.</p>
 <p>Here's how it works:</p>
 <ul>
   <li> Imgur GET requests are performed every 6 minutes </li>
