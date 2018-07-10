@@ -3,7 +3,8 @@
 
 <img src="http://bensky.io/img/portfolio/carousel/wikimgur.jpg" alt="screenshot #1 of bbq-journal.com" width="80%" >
 
-<p>wikimgur.com is a mashup of current Imgur images and related Wikipedia content.</p> <p>Image tags are used to dynamically retreive and display Wikipedia content. Here's how it works:</p>
+<p><strong>wikimgur.com is a mashup of current Imgur images and related Wikipedia content.</p> <p>Image tags are used to dynamically retreive and display Wikipedia content.</strong></p>
+<p>Here's how it works:</p>
 <ul>
   <li> Imgur GET requests are performed every 6 minutes </li>
   <li> Images are filtered for the following conditions:
@@ -18,7 +19,7 @@
   <li> Pageview counts for every tag from every image are queried from the Wikimedia API </li>
   <li> For each image, only the tag with the most Wikipedia pageviews is queried for Wikipedia content</li>
 </ul>
-<br><br><h3>Technologies used:</h3>
+<br><h3>Technologies used:</h3>
 <ul>
       <li> React </li>
       <li> Redux </li>
