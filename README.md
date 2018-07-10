@@ -8,7 +8,7 @@
 <p>Here's how it works:</p>
 <ul>
   <li> Imgur GET requests are performed every 6 minutes </li>
-  <li> Images are filtered for the following conditions:
+  <li> Images are filtered for the following conditions:<br>
     <ul>
       <li> No image content </li>
       <li> Multiple images </li>
