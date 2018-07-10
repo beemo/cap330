@@ -28,4 +28,5 @@
       <li> redux-thunk </li> 
 </ul>
 
-This repo only contains frontend files for wikimgur.com. Here is the repo containing the (completely separate) [backend](https://github.com/benskyio/wikimgur-backend).
+This repo only contains frontend files for wikimgur.com. Here is the repo containing the (completely separate) [backend](https://github.com/benskyio/wikimgur_backend).
+
