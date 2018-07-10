@@ -8,7 +8,7 @@
 <p>Here's how it works:</p>
 <ul>
   <li> Imgur GET requests are performed every 6 minutes </li>
-  <li> Images are filtered for the following conditions:<br>
+  <li> Images are filtered for the following conditions:</li>
     <ul>
       <li> No image content </li>
       <li> Multiple images </li>
@@ -26,6 +26,5 @@
       <li> Redux </li>
       <li> redux-thunk </li> 
 </ul>
-
 
 This repo only contains frontend files for wikimgur.com. Here is the repo containing the (completely separate) [backend](https://github.com/benskyio/wikimgur-backend).
