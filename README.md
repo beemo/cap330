@@ -1,5 +1,5 @@
-<h2>wikimgur.com</h2>
-<h2><a href="http://wikimgur.com">wikimgur.com</a></h2>
+<h2>Wikimgur</h2>
+<h3><a href="http://wikimgur.com">wikimgur.com</a></h3>
 
 <img src="http://bensky.io/img/portfolio/carousel/wikimgur.jpg" alt="screenshot #1 of bbq-journal.com" width="80%" >
 
